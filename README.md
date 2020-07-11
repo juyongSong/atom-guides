@@ -39,3 +39,6 @@
 ## License
 
 [MIT](http://preco.mit-license.org/)
+
+## Equation Test
+$a = frac{b}{c}$
